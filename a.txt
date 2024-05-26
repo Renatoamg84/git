@@ -1,9 +1,0 @@
-aswer
-
-esta linha foi modificada no ramo master
-
-Esta linha foi criada no ramo teste
-
-esta linha criada usando o editor do git
-
-editado de novo
